@@ -1,0 +1,23 @@
+.carousel {
+    height: 100%;
+}
+.carousel-control {
+    color: #ccc;
+}
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+}
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .glyphicon-chevron-left {
+    top: 25px;
+}
+
+.song {
+    text-align: center;
+}
+
+.song .title {
+}
+
+.song .lyrics {
+}
